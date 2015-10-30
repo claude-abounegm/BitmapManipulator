@@ -6,7 +6,7 @@ grayscale, horizontal mirror, and right rotate are already implemented.
 
 This application was programmed for Algorithms and Data Structures course for Dr. Barry Wittman.
 
-usage:
+Java Usage:
     
     import graphics.Bitmap;
     
