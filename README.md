@@ -15,3 +15,5 @@ usage:
     	bmp.invert();
     	bmp.write("inverted.bmp");
     }
+
+** Unless otherwise noted, all code is Claude Abounegm's property. **
